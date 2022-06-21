@@ -1,4 +1,3 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 from datetime import datetime, timedelta
 
 def gettime():
